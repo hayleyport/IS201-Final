@@ -1,0 +1,69 @@
+body{
+    background-color: #bacfe3;
+}
+
+h1{
+    color: #bacfe3;
+    text-align: center;
+    font-stretch: expanded;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: azure;
+}
+
+#mainNav{
+    font-variant: small-caps;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.subheading{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#top{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   color: azure;
+   text-align: center;
+}
+
+#bottom{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: azure;
+    text-align: center;
+}
+
+img{
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.resume{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:black;
+}
+
+.resumepoint{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.iframe-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; 
+    height: 0;
+  }
+  .iframe-container iframe{
+    position: absolute;
+    top:10px;
+    left: 10px;
+    width: 100%;
+    height: 100%;
+  }

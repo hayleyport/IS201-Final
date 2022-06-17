@@ -1,0 +1,82 @@
+.common{
+    text-align: center;
+    position: static;
+}
+
+.header{
+    color:black;
+    height: 50px;
+    line-height: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.mainbody{
+    background-color: #bacfe3;
+}
+   
+h1{
+    color: azure;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.navLink{
+    color: black;
+    text-align: left;
+}
+
+p{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+#viz1655370288780{
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#viz1655371274131{
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#viz1655371345092{
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#viz1655371521221{
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+}
+img{
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.end{
+    text-align: center;
+    color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.footer{
+    background-color: black;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
